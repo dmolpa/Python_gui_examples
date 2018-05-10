@@ -1,0 +1,5 @@
+I'm using Anaconda's Python. You can use Miniconda.
+ 
+conda config --add channels conda-forge
+conda install pyside2
+pip install PyOpenGL
